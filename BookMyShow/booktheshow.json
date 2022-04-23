@@ -1,0 +1,10 @@
+{
+    "1234": {
+        "name": "arman",
+        "phn": "1234",
+        "no_of_seat_booked": 1,
+        "booking_list": [
+            "A0"
+        ]
+    }
+}

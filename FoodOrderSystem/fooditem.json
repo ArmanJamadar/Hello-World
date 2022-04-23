@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Panipuri",
+        "no_of_plates": 5
+    },
+    {
+        "id": 2,
+        "name": "jalebi",
+        "no_of_plates": 10
+    }
+]

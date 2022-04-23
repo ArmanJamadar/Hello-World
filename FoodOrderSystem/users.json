@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "arman",
+        "password": "1234",
+        "age": "21",
+        "phone_number": "767676",
+        "order_history": {
+            "04-22-22": [
+                "Panipuri"
+            ],
+            "04-23-2022": [
+                "Panipuri",
+                "Panipuri"
+            ]
+        },
+        "phone": "7575"
+    },
+    {
+        "id": 2,
+        "name": "arman2",
+        "password": "123456",
+        "age": "21",
+        "phone_number": "75757575",
+        "order_history": {}
+    },
+    {
+        "id": 3,
+        "name": "arman1",
+        "password": "7570",
+        "age": "21",
+        "phone_number": "9999999",
+        "order_history": {}
+    },
+    {
+        "id": 4,
+        "name": "jaid",
+        "password": "321",
+        "age": "19",
+        "phone_number": "98987878",
+        "order_history": {}
+    },
+    {
+        "id": 5,
+        "name": "adndndnd",
+        "password": "ssssas2222e3222322",
+        "age": "21",
+        "phone_number": "2345",
+        "order_history": {}
+    }
+]
